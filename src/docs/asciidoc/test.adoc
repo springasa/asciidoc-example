@@ -2,6 +2,7 @@
 Dan Allen <https://github.com/mojavelinux[@mojavelinux]>; Sarah White <https://github.com/graphitefriction[@graphitefriction]>; Ryan Waldron <https://github.com/erebor[@erebor]>
 
 From: https://github.com/asciidoctor/asciidoctor-maven-examples/tree/master/asciidoctor-pdf-cjk-example
+
 // settings:
 :page-layout: base
 :idprefix:
